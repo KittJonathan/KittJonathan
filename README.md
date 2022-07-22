@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/66747_email_icon.png"/>
+</a>
+
 
 <!--
 **KittJonathan/KittJonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<a href="mailto:info@data-vizard.com"><img border="0" alt="Email" src="https://assets.dryicons.com/uploads/icon/svg/8009/02dc3a5c-6504-4347-85fb-3f510cfecc45.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
 
 <!--
 **KittJonathan/KittJonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

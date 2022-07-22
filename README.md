@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="mailto:jonathan.kitt@protonmail.com">
   <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/66747_email_icon.png"/>
 </a>
 

@@ -3,6 +3,9 @@
 <a href="mailto:jonathan.kitt@protonmail.com">
   <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/66747_email_icon.png"/>
 </a>
+<a href="https://twitter.com/KittJonathan">
+  <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/56285_twitter_icon.png"/>
+</a>
 
 
 <!--

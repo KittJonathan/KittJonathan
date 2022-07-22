@@ -6,6 +6,9 @@
 <a href="https://twitter.com/KittJonathan">
   <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/56285_twitter_icon.png"/>
 </a>
+<a href="https://www.linkedin.com/in/jonathan-kitt-aa57751a3/">
+  <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/56279_linkedin_icon.png"/>
+</a>
 
 
 <!--

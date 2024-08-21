@@ -4,7 +4,10 @@ My name is Jonathan Kitt.
 
 I'm a lab technicien currently working on Wheat genomics in the [Genetics, Diversity and Ecophysiology of Cereals lab](https://eng-umr1095.clermont.hub.inrae.fr/) in Clermont-Ferrand, Auvergne.
 
-In the last years, my work has been mainly focused on data analysis using the R langage.
+In the last years, my work has been mainly focused on data analysis using the R langage : 
+
+* 🧹 cleaning and preparing data
+* 
 
 <a href="mailto:jonathan.kitt@protonmail.com">
   <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/66747_email_icon.png"/>

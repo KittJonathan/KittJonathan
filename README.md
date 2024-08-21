@@ -50,20 +50,6 @@ Here are some ideas to get you started:
 <a href="mailto:jonathan.kitt@protonmail.com">
   <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/email.png"/>
 </a>
-
-<a href="mailto:jonathan.kitt@proton.me">
-  <img height="25" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jonathan-kitt-aa57751a3/">
+  <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/linkedin.png"/>
 </a>
-
-<a href="https://www.flaticon.com/free-icons/mail" title="mail icons">Mail icons created by Freepik - Flaticon</a>
-
-
-<a href="mailto:jonathan.kitt@proton.me">
-  <img height="25" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/KittJonathan">
-  <img height="25" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-</a>
-
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)

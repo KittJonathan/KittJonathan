@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KittJonathan&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KittJonathan&layout=compact)](https://github.com/yushi1007)
+
 <!--
 # [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KittJonathan&theme=dark&show_icons=TRUE)](https://github.com/KittJonathan/github-readme-stats)
 -->

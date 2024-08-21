@@ -21,7 +21,6 @@ In the last years, my work has been mainly focused on data analysis using the R 
   <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/56279_linkedin_icon.png"/>
 </a>
 
-
 <!--
 **KittJonathan/KittJonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

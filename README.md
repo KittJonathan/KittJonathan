@@ -7,7 +7,9 @@ I'm a lab technicien currently working on Wheat genomics in the [Genetics, Diver
 In the last years, my work has been mainly focused on data analysis using the R langage : 
 
 * 🧹 cleaning and preparing data
-* 
+* 📊 creating visuals to share results
+
+
 
 <a href="mailto:jonathan.kitt@protonmail.com">
   <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/66747_email_icon.png"/>

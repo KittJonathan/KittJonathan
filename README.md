@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jonathan Kitt. I'm a lab technicien currently working on Wheat genomics in Clermont-Ferrand, Auvergne.
+My name is Jonathan Kitt.\nI'm a lab technicien currently working on Wheat genomics in Clermont-Ferrand, Auvergne.\n
 In the last years, my work has been mainly focused on data analysis using the R langage.
 
 <a href="mailto:jonathan.kitt@protonmail.com">

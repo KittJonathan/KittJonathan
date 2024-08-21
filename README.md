@@ -47,8 +47,12 @@ Here are some ideas to get you started:
 -->
 ### 💬 Connect with me
 
-<a href="mailto:jonathan.kitt@protonmail.com">
-  <img height="50" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+<a href="mailto:jonathan.kitt@proton.me">
+  <img height="25" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+</a>
+
+<a href="mailto:jonathan.kitt@proton.me">
+  <img height="25" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
 
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)

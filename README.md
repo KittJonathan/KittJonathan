@@ -2,7 +2,7 @@
 
 My name is Jonathan Kitt.
 
-I'm a lab technicien currently working on Wheat genomics in Clermont-Ferrand, Auvergne.
+I'm a lab technicien currently working on Wheat genomics in the [Genetics, Diversity and Ecophysiology of Cereals lab](https://eng-umr1095.clermont.hub.inrae.fr/) in Clermont-Ferrand, Auvergne.
 
 In the last years, my work has been mainly focused on data analysis using the R langage.
 

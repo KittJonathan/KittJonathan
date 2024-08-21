@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Jonathan Kitt. I'm a lab technicien currently working on Wheat genomics in Clermont-Ferrand, Auvergne.
+In the last years, my work has been mainly focused on data analysis using the R langage.
+
 <a href="mailto:jonathan.kitt@protonmail.com">
   <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/66747_email_icon.png"/>
 </a>

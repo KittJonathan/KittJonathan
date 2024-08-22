@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KittJonathan&theme=dark&theme=dark&exclude_days=Sun%2CSat&fire=B2FEFA&ring=B2FEFA&currStreakNum=B2FEFA&hide_border=true&background=45%2C000046%2C1CB5E0&dates=FFFFFF&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KittJonathan&theme=dark&show_icons=true&hide_border=true&bg_color=45%2C000046%2C1CB5E0&icon_color=B2FEFA&text_color=FFFFFF&hide_title=true&ring_color=B2FEFA)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KittJonathan&layout=compact)](https://github.com/yushi1007)
+-->
 
 <!--
 # [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KittJonathan&theme=dark&show_icons=TRUE)](https://github.com/KittJonathan/github-readme-stats)
@@ -55,7 +56,6 @@ Here are some ideas to get you started:
 <a href="mailto:jonathan.kitt@protonmail.com">
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/email.png"/>
 </a>
-<!--
 <a href="https://www.linkedin.com/in/jonathan-kitt-aa57751a3/">
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/linkedin.png"/>
 </a>

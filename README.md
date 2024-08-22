@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KittJonathan&theme=dark&theme=dark&exclude_days=Sun%2CSat&fire=B2FEFA&ring=B2FEFA&currStreakNum=B2FEFA&hide_border=true&background=45%2C000046%2C1CB5E0&dates=FFFFFF&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KittJonathan&theme=dark&show_icons=true&hide_border=true&background=45%2C000046%2C1CB5E0)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KittJonathan&theme=dark&show_icons=true&hide_border=true&bg_color=45%2C000046%2C1CB5E0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KittJonathan&layout=compact)](https://github.com/yushi1007)
 

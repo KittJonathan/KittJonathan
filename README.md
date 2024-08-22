@@ -48,6 +48,9 @@ Here are some ideas to get you started:
 ### 💬 Connect with me
 
 <a href="mailto:jonathan.kitt@protonmail.com">
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/courrier.png"/>
+</a>
+<a href="mailto:jonathan.kitt@protonmail.com">
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/email.png"/>
 </a>
 <a href="https://www.linkedin.com/in/jonathan-kitt-aa57751a3/">

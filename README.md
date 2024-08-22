@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KittJonathan&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KittJonathan&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KittJonathan&layout=compact&hide_border=true&background=45%2C000046%2C1CB5E0)](https://github.com/yushi1007)
 
 <!--
 # [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KittJonathan&theme=dark&show_icons=TRUE)](https://github.com/KittJonathan/github-readme-stats)

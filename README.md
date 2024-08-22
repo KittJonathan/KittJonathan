@@ -10,7 +10,7 @@ In the last years, my work has been mainly focused on data analysis using the R 
 * 📊 creating visuals to share results
 
 
-
+<!--
 <a href="mailto:jonathan.kitt@protonmail.com">
   <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/66747_email_icon.png"/>
 </a>
@@ -20,6 +20,7 @@ In the last years, my work has been mainly focused on data analysis using the R 
 <a href="https://www.linkedin.com/in/jonathan-kitt-aa57751a3/">
   <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/56279_linkedin_icon.png"/>
 </a>
+-->
 
 <!--
 **KittJonathan/KittJonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

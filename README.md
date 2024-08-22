@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KittJonathan&theme=dark&background=000000theme=dark&exclude_days=Sun%2CSat&fire=6ACCF3&ring=6ACCF3&currStreakNum=6ACCF3)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KittJonathan&theme=dark&background=000000theme=dark&exclude_days=Sun%2CSat&fire=6ACCF3&ring=6ACCF3&currStreakNum=6ACCF3&hideborder=true&background=45%2CEB5454%2CEB5454)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KittJonathan&layout=compact)](https://github.com/yushi1007)
 

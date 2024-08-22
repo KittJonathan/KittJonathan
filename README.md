@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### 💬 Connect with me
 
 <a href="mailto:jonathan.kitt@protonmail.com">
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/protonmail.png"/>
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/protonmail.svg"/>
 </a>
 <a href="mailto:jonathan.kitt@protonmail.com">
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/email.png"/>

@@ -19,13 +19,13 @@ I post from time to time on my [personal blog](https://jonathankitt.netlify.app/
 ### 💬 Let's get in touch!
 
 <a href="mailto:jonathan.kitt@proton.me">
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/protonmail.svg"/>
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/protonmail-color.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/jonathan-kitt-aa57751a3/">
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/linkedin.svg"/>
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/linkedin-color.svg"/>
 </a>
 <a href="https://x.com/KittJonathan">
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/x.svg"/>
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/x-color.svg"/>
 </a>
 <a href="https://jonathankitt.netlify.app/">
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/netlify-color.svg"/>

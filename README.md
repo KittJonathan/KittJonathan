@@ -36,7 +36,7 @@ When coding in R, I use RStudio. Since I started learning Python, I've started u
 
 <br>
 
-## 🖊️ My contributions
+## 👨‍🏫 Teaching R and coding workshops
 
 <br>
 
@@ -49,6 +49,31 @@ Passionate about R, keeping up to date with new packages, and everything related
 - [Reporting with RMarkdown](https://ateliers-codons.netlify.app/posts/04-rmarkdown/)
 - [Introduction to git](https://ateliers-codons.netlify.app/posts/05-git/)
 
+<br>
+
+## 🖊️ My contributions
+
+<br>
+
+What I really appreciate about the R community is being able to find and give some help, and get inspiration from what other coders share.
+I contributed to correcting typos in the following online books :
+
+- [R for Data Science, 2nd edition](https://r4ds.hadley.nz/)
+- [Computational Genomics with R](https://compgenomr.github.io/book/)
+
+<br>
+
+## 📦 R packages
+
+<br>
+
+As a fan of the Dr Who TV Series, I created the {datardis} package, which contains details about the episodes. The package is [available on CRAN](https://cran.r-project.org/web/packages/datardis/index.html).
+
+<br>
+
+I also contributed to the following packages :
+- [{werpals}](https://github.com/sciencificity/werpals) : palettes inspired by Disney and nature.
+- [{datefixR}](https://github.com/ropensci/datefixR) : Standardize dates in different formats or with missing datas
 
 <!--
 **KittJonathan/KittJonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

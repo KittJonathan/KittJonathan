@@ -1,4 +1,4 @@
-### Hello! 👋
+## Hello! 👋
 
 <br>
 
@@ -14,7 +14,7 @@ In the last years, my work has been mainly focused on data analysis using the R 
 
 <br>
 
-### 🛠️ My skills
+## 🛠️ My skills
 
 <br>
 
@@ -30,22 +30,25 @@ When coding in R, I use RStudio. Since I started learning Python, I've started u
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
-<!--
-<a href="mailto:jonathan.kitt@protonmail.com">
-  <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/66747_email_icon.png"/>
-</a>
-<a href="https://twitter.com/KittJonathan">
-  <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/56285_twitter_icon.png"/>
-</a>
-<a href="https://www.linkedin.com/in/jonathan-kitt-aa57751a3/">
-  <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/56279_linkedin_icon.png"/>
-</a>
--->
+
+<br>
+
+## 🖊️ My contributions
+
+<br>
+
+Passionate about R, keeping up to date with new packages, and everything related to the [{tidyverse}](https://www.tidyverse.org/), I started back in 2022 a coding club in my research lab, for which I wrote workshop tutorials (in french) :
+
+- [Installing R and RStudio](https://ateliers-codons.netlify.app/posts/01-installer-r-et-rstudio/)
+- [First steps with R](https://ateliers-codons.netlify.app/posts/02-premiers-pas-avec-r/)
+- [Data wrangling with the {tidyverse}](https://ateliers-codons.netlify.app/posts/03-introduction-tidyverse/)
+- [Dataviz using {ggplot2}](https://ateliers-codons.netlify.app/posts/06-intro-ggplot/)
+- [Reporting with RMarkdown](https://ateliers-codons.netlify.app/posts/04-rmarkdown/)
+- [Introduction to git](https://ateliers-codons.netlify.app/posts/05-git/)
+
 
 <!--
 **KittJonathan/KittJonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

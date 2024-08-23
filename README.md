@@ -1,5 +1,7 @@
 ### Hello! 👋
 
+<br>
+
 My name is Jonathan Kitt.
 
 I'm a lab technicien currently working on Wheat genomics in the [Genetics, Diversity and Ecophysiology of Cereals lab](https://eng-umr1095.clermont.hub.inrae.fr/) in Clermont-Ferrand, Auvergne.
@@ -13,11 +15,20 @@ In the last years, my work has been mainly focused on data analysis using the R 
 
 ### 🛠️ My skills
 
+<br>
+
 I mainly code in R, but recently started learning Python. 
 
 I use git for version control, with GitHub for personal work and GitLab for my academic work.
 
 When coding in R, I use RStudio. Since I started learning Python, I've started using VSCode.
+
+<a 
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/R-Dark.svg"/>
+</a>
+<a 
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/Python-Dark.svg"/>
+</a>
 
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/R-Dark.svg"/>
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/Python-Dark.svg"/>

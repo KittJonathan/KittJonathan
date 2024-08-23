@@ -11,7 +11,7 @@ In the last years, my work has been mainly focused on data analysis using the R 
 
 I mainly code in R, but recently started learning Python.
 
-<a
+<a>
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/R-Dark.svg"/>
 </a>
 

@@ -42,26 +42,6 @@ When coding in R, I use RStudio. Since I started learning Python, I've started u
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-
-
-<a>
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/R-Dark.svg"/>
-</a>
-<a>
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/Python-Dark.svg"/>
-</a>
-
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/R-Dark.svg"/>
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/Python-Dark.svg"/>
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/R-Dark.svg"/>
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/Git.svg"/>
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/Github-Dark.svg"/>
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/GitLab-Dark.svg"/>
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/VisualStudio-Dark.svg"/>
-
-
-
 <!--
 <a href="mailto:jonathan.kitt@protonmail.com">
   <img height="50" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/66747_email_icon.png"/>

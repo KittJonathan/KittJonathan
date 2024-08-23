@@ -28,7 +28,7 @@ I post from time to time on my [personal blog](https://jonathankitt.netlify.app/
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/x.svg"/>
 </a>
 <a href="https://jonathankitt.netlify.app/">
-  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/netlify.svg"/>
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/netlify-color.svg"/>
 </a>
 
 

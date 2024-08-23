@@ -9,6 +9,7 @@ I'm a lab technicien currently working on Wheat genomics in the [Genetics, Diver
 In the last years, my work has been mainly focused on data analysis using the R langage : 
 
 * 🧹 cleaning and preparing data
+* 🔎 data analysis
 * 📊 creating visuals to share results
 
 <br>

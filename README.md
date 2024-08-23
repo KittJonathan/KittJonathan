@@ -9,10 +9,22 @@ In the last years, my work has been mainly focused on data analysis using the R 
 * 🧹 cleaning and preparing data
 * 📊 creating visuals to share results
 
-I mainly code in R, but recently started learning Python.
+### 🛠️ My skills
+
+I mainly code in R, but recently started learning Python. 
+
+I use git for version control, with GitHub for personal work and GitLab for my academic work.
+
+When coding in R, I use RStudio. Since I started learning Python, I've started using VSCode.
 
 <a>
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/R-Dark.svg"/>
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/Python-Dark.svg"/>
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/R-Dark.svg"/>
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/Git.svg"/>
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/Github-Dark.svg"/>
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/GitLab-Dark.svg"/>
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/VisualStudio-Dark.svg"/>
 </a>
 
 

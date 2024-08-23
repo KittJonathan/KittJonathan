@@ -23,10 +23,10 @@ I use git for version control, with GitHub for personal work and GitLab for my a
 
 When coding in R, I use RStudio. Since I started learning Python, I've started using VSCode.
 
-<a 
+<a>
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/R-Dark.svg"/>
 </a>
-<a 
+<a>
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/Python-Dark.svg"/>
 </a>
 

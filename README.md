@@ -13,6 +13,11 @@ In the last years, my work has been mainly focused on data analysis using the R 
 * 📊 creating visuals to share results
 
 <br>
+I post from time to time on my [personal blog](https://jonathankitt.netlify.app/).
+
+
+
+<br>
 
 ## 🛠️ My skills
 

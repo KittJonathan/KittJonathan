@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 My name is Jonathan Kitt.
 
@@ -8,6 +8,13 @@ In the last years, my work has been mainly focused on data analysis using the R 
 
 * 🧹 cleaning and preparing data
 * 📊 creating visuals to share results
+
+I mainly code in R, but recently started learning Python.
+
+<a
+  <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/R-Dark.svg"/>
+</a>
+
 
 
 <!--
@@ -49,9 +56,9 @@ Here are some ideas to get you started:
 <!--
 # [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KittJonathan&theme=dark&show_icons=TRUE)](https://github.com/KittJonathan/github-readme-stats)
 -->
-### 💬 Connect with me
+### 💬 Let's get in touch!
 
-<a href="mailto:jonathan.kitt@protonmail.com">
+<a href="mailto:jonathan.kitt@proton.me">
   <img height="50px" src="https://github.com/KittJonathan/KittJonathan/blob/main/images/protonmail.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/jonathan-kitt-aa57751a3/">

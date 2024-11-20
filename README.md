@@ -16,6 +16,8 @@ In the last years, my work has been mainly focused on data analysis using the R 
 
 In September 2024 I joined the editors' team for the [Rweekly](https://rweekly.org) newsletter.
 
+I'm currently enrolled in a [Data Scientist course](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist), at the Université Clermont Auvergne.
+
 I post from time to time on my [personal blog](https://jonathankitt.netlify.app/).
 <br>
 

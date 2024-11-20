@@ -72,6 +72,10 @@ When coding in R, I use RStudio. Since I started learning Python, I've started u
 
 <br>
 
+## 📦 Github repos
+
+[#30DayMapChallenge](https://github.com/KittJonathan/30DAYMAPCHALLENGE/tree/main) : using R to create maps (in 2024 I created 5 maps)
+
 ## 👨‍🏫 Teaching R and coding workshops
 
 <br>
@@ -96,6 +100,8 @@ I contributed to correcting typos in the following online books :
 
 - [R for Data Science, 2nd edition](https://r4ds.hadley.nz/)
 - [Computational Genomics with R](https://compgenomr.github.io/book/)
+
+I'm also part of the editors' team for the [Rweekly newsletter](https://rweekly.org).
 
 <br>
 

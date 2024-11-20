@@ -74,7 +74,9 @@ When coding in R, I use RStudio. Since I started learning Python, I've started u
 
 ## 📦 Github repos
 
-[#30DayMapChallenge](https://github.com/KittJonathan/30DAYMAPCHALLENGE/tree/main) : using R to create maps (in 2024 I created 5 maps)
+- [#30DayMapChallenge](https://github.com/KittJonathan/30DAYMAPCHALLENGE) : using R to create maps (in 2024 I created 5 maps)
+- [Vendée Globe](https://github.com/KittJonathan/VENDEE_GLOBE) : datasets and code to create maps of the Vendée Globe race
+
 
 ## 👨‍🏫 Teaching R and coding workshops
 

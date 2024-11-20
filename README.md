@@ -14,6 +14,8 @@ In the last years, my work has been mainly focused on data analysis using the R 
 
 <br>
 
+In September 2024 I joined the editors' team for the [Rweekly](https://rweekly.org) newsletter.
+
 I post from time to time on my [personal blog](https://jonathankitt.netlify.app/).
 <br>
 

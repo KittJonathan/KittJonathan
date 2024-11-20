@@ -40,6 +40,16 @@ I post from time to time on my [personal blog](https://jonathankitt.netlify.app/
 
 <br>
 
+## 📄 My C.V.
+
+<br>
+
+You can find my detailed C.V. here : 
+
+- [English C.V.](https://github.com/KittJonathan/KittJonathan/blob/main/CV_EN.pdf)
+- [French C.V.]((https://github.com/KittJonathan/KittJonathan/blob/main/CV_FR.pdf)
+
+
 ## 🛠️ My skills
 
 <br>
